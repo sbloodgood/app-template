@@ -1,10 +1,10 @@
 # Hadouken Application Template
 
-A simple unopinionated Hadouken application template. The purpose of this repository is to allow users to get started with Hadouken immediately by providing a development setup that does not require initial configuration. The setup has minimal dependencies and the feature set is intentionally limited. Any further configuration can be achieved by editing the `app.json` file: [Application Config](https://openfin.co/application-config/).
+A simple unopinionated Hadouken application template. The purpose of this repository is to allow users to get started with Hadouken immediately by providing a development setup that does not require initial configuration. The setup has minimal dependencies and the feature set is intentionally limited. Any further configuration can be achieved by editing the `app.json` file: [Application Config](https://developers.openfin.co/docs/application-configuration).
 
 ### What you get:
 
-#### [Hadouken download and instal](https://github.com/hadoukenio/js-adapter)
+#### [Hadouken download and install](https://github.com/hadoukenio/js-adapter)
 
 * Automates the downloading and launching of the Hadouken Runtime.
 
@@ -12,9 +12,9 @@ A simple unopinionated Hadouken application template. The purpose of this reposi
 
 * [Live-server](https://www.npmjs.com/package/live-server) with built-in live reloading after changes to files.
 
-#### Basic HTML/Javascript Template
+#### Basic HTML/Javascript template
 
-* HTML 5 and ES6 Template with Hadouken integration.
+* HTML5 and ES6 Template with Hadouken integration.
 
 #### Service Worker
 
